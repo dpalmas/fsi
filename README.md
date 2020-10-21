@@ -1,2 +1,2 @@
-# python_course
-Repositório para estudo da linguagem Python
+# Fundamentos de Sistemas Inteligentes
+Repositório para atividades feitas em sala.
