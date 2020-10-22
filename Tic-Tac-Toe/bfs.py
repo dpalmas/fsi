@@ -49,4 +49,3 @@ def largura(estado):
 
 estado_inicial = Estado()
 largura(estado_inicial)
-profundidade(estado_inicial)
