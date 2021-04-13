@@ -1,3 +1,4 @@
+# Utilização de algoritmos de busca para jogo Tic-Tac-Toe.
 class Estado:
   
   def __init__(self):
